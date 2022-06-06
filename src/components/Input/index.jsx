@@ -255,6 +255,14 @@ export default () => {
               }}
             >
               Privacy Policy Terms of Use
+            </Typography>  <Typography
+              sx={{
+                fontFamily: "sans-serif",
+                // fontSize: "17px",
+                color: "#9B9090",
+              }}
+            >
+              Privacy Policy Terms of Use
             </Typography>
           </Grid>
         </Grid>
