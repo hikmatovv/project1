@@ -1,0 +1,22 @@
+.imgHover{
+    opacity: 1;
+    height: 100%;
+}
+.plus{
+    display: block;
+    /* position: absolute; */
+    color:white;
+}
+
+.yellowHover:hover .hower{
+    opacity: 1;
+    background-color: yellow;
+    transition: 0.1s;
+}
+.yellowHover:hover .imgHover{
+    opacity: 0.2;
+    transition: 0.7s;
+}
+.ishora{
+    opacity:"0";
+}
